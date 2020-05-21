@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.18 s <<< FAILURE! - in TestSuite
+sixthSem(Shivanshu.Automation.ThirdYear)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Syntax error on token ";", ( expected
+	Syntax error, insert ")" to complete Expression
+	Syntax error, insert "AssignmentOperator Expression" to complete Expression
+	Syntax error, insert ";" to complete Statement
+
+	at Shivanshu.Automation.ThirdYear.sixthSem(ThirdYear.java:16)
+
